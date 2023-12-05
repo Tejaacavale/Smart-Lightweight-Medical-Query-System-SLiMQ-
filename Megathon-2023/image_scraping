@@ -1,0 +1,38 @@
+from bs4 import BeautifulSoup
+import urllib.request
+from PIL import Image
+import os
+
+def retrieve_image (disease):
+    """0 if no wikipedia page found
+    1 if no image on wikipedia page
+    """
+    # disease = "Heart Palpitations"
+    disease = '_'.join(disease.split())
+    try: 
+        fp = urllib.request.urlopen(f"https://en.wikipedia.org/wiki/{disease}")
+    except urllib.error.HTTPError:
+        if os.path.exists("cache.png"):
+            os.remove("cache.png")
+        return 0 # couldn't find Wikipedia page
+    
+    mybytes = fp.read()
+    mystr = mybytes.decode("utf8")
+    fp.close()
+
+    soup = BeautifulSoup(mystr)
+
+    text = soup.find('table', class_="infobox")
+    if text:
+        text = text.find('img')['src']
+    else: 
+        if os.path.exists("cache.png"):
+            os.remove("cache.png")
+        return 1 # no images on Wikipedia page
+    
+    urllib.request.urlretrieve("https://" + text[2:], "cache.png")
+
+    img = Image.open("cache.png") 
+    img.show()
+
+print(retrieve_image('deep vein thrombosis'))

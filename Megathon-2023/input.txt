@@ -1,0 +1,31 @@
+Use the following pieces of context to answer the question at the end.
+If you don't know the answer, just say that you don't know, don't try to
+make up an answer.
+
+Datapoint 0 :
+
+ Is Leber hereditary optic neuropathy inherited ?What causes Leber hereditary optic neuropathy (LHON)? Leber hereditary optic neuropathy is a condition related to changes in mitochondrial DNA. Mutations in the MT-ND1, MT-ND4, MT-ND4L, and MT-ND6 genes cause LHON. These genes are contained in mitochondrial DNA. Mitochondria are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA (known as mitochondrial DNA or mtDNA). The genes related to Leber hereditary optic neuropathy each provide instructions for making a protein involved in normal mitochondrial function. These proteins are part of a large enzyme complex in mitochondria that helps convert oxygen and simple sugars to energy. Mutations in any of the genes disrupt this process. It remains unclear how these genetic changes cause the death of cells in the optic nerve and lead to the specific features of Leber hereditary optic neuropathy. Click here to visit the Genetic Home Reference Web site to learn more about how mutations in these genes cause Leber hereditary optic neuropathy.
+Datapoint 1 :
+
+ Is Leber hereditary optic neuropathy inherited ?Mutations in the MT-ND1, MT-ND4, MT-ND4L, or MT-ND6 gene can cause LHON. These genes are found in the DNA of cellular structures called mitochondria, which convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA, known as mitochondrial DNA or mtDNA.  The genes associated with LHON each provide instructions for making a protein involved in normal mitochondrial function. These proteins are part of a large enzyme complex in mitochondria that helps convert oxygen, fats, and simple sugars to energy. Mutations in any of the genes disrupt this process. It remains unclear how these genetic changes cause the death of cells in the optic nerve and lead to the specific features of LHON.  A significant percentage of people with a mutation that causes LHON do not develop any features of the disorder. Specifically, more than 50 percent of males with a mutation and more than 85 percent of females with a mutation never experience vision loss or related health problems. Additional factors may determine whether a person develops the signs and symptoms of this disorder. Environmental factors such as smoking and alcohol use may be involved, although studies have produced conflicting results. Researchers are also investigating whether changes in additional genes contribute to the development of signs and symptoms.
+Datapoint 2 :
+
+What is (are) Leber hereditary optic neuropathy ?These resources address the diagnosis or management of malonyl-CoA decarboxylase deficiency:  - Baby's First Test  - Genetic Testing Registry: Deficiency of malonyl-CoA decarboxylase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Datapoint 3 :
+
+What is (are) Leber hereditary optic neuropathy ?What are the signs and symptoms of Pseudohypoparathyroidism type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for Pseudohypoparathyroidism type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Elevated circulating parathyroid hormone (PTH) level - Hyperphosphatemia - Hypocalcemia - Pseudohypoparathyroidism - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+
+
+Role: You are an expert AI Doctor who needs to help his patient  in a remote village . He has the below question , help him to the best of your ability.The information provided above is latest and reliable.
+Question:What are the symptoms of Deep Vein Thrombosis. 
+The information provided above is latest and reliable.
+Refer the below for a sample on how to answer
+" Question : What are tips for managing my bipolar disorder?
+ Answer: Along with seeing your doctor and therapist and taking your medicines, simple daily habits can make a difference. Start with these strategies.
+Pay attention to your sleep. This is especially important for people with bipolar disorder.
+Eat well. Theres no specific diet.
+ Focus on the basics: Favor fruits, vegetables, lean protein, and whole grains. And cut down on fat, salt, and sugar. 
+Tame stress. (81 words truncated) You can also listen to music or spend time with positive people who are good company. (73 words truncated)
+ Limit caffeine. It can keep you up at night and possibly affect your mood. (47 words truncated) 
+Avoid alcohol and drugs. They can affect how your medications work."
